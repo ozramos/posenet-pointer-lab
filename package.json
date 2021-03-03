@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "parcel-plugin-static-files-copy": "^2.1.2",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "spectre.css": "^0.5.8",
     "stylus": "^0.54.5"
   }
